@@ -1,0 +1,1 @@
+# SQLtemelleri-dev4
